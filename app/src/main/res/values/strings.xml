@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Bins</string>
+    <string name="notification_title">Bins Reminder</string>
+
+    <string-array name="day_array">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string-array name="hour_array">
+        <item>5pm</item>
+        <item>6pm</item>
+        <item>7pm</item>
+        <item>8pm</item>
+        <item>9pm</item>
+        <item>10pm</item>
+    </string-array>
+
+
+    <string name="large_text">
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Bins</string>
+    <string name="title_next_collection">Next Collection</string>
+    <string name="title_time">Reminder Time</string>
+    <string name="title_information">Information</string>
+    <string name="title_collection_day">Day of Collection</string>
+    <string name="collection_day_key">dayKey</string>
+    <string name="reminder_hour_key">hourKey</string>
+</resources>
